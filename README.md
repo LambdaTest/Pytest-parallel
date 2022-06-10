@@ -1,4 +1,4 @@
-# How to run parallel automation tests in Pytest in on [LambdaTest](https://www.lambdatest.com/?utm_source=github&utm_medium=repo&utm_campaign=Pytest-parallel)
+# How to run parallel automation tests in Pytest on [LambdaTest](https://www.lambdatest.com/?utm_source=github&utm_medium=repo&utm_campaign=Pytest-parallel)
 
 If you want to run parallel automation tests in Pytest on Lambdatest, you can use the following steps. You can refer to sample test repo [here](https://github.com/LambdaTest/pytest-selenium-sample).
 
